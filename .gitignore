@@ -1,0 +1,24 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo
+*.bak
+*.swp
+*~
+.*.swp
+
+# Archivos temporales de Word
+~$*.docx
+~$*.doc
+
+# Carpetas de notas privadas
+notas_privadas/
+borradores_personales/
+
+# Archivos de configuración local
+.vscode/
+.idea/
+
+# Logs
+*.log
