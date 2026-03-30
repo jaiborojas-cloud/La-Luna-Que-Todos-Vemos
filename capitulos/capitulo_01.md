@@ -1,4 +1,4 @@
-# Capítulo 1: La Ilusión del Observador
+﻿# Capítulo 1: La Ilusión del Observador
 
 ## Parte I — El Pago
 

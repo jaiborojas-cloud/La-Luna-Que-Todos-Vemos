@@ -1,4 +1,4 @@
-# GLOSARIO — MENTEMONEDA
+﻿# GLOSARIO — MENTEMONEDA
 
 > Términos clave del libro con definiciones contextuales (no técnicas estrictas)
 

@@ -1,4 +1,4 @@
-# MENTEMONEDA
+﻿# MENTEMONEDA
 
 ## La Mente Como Moneda de Existencia
 

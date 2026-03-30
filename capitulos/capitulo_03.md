@@ -1,4 +1,4 @@
-# Capítulo 3: No Hay Dos Iguales
+﻿# Capítulo 3: No Hay Dos Iguales
 
 ## Parte II — La Diversidad
 

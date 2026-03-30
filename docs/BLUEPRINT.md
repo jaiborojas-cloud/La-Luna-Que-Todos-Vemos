@@ -1,4 +1,4 @@
-# BLUEPRINT — MENTEMONEDA
+﻿# BLUEPRINT — MENTEMONEDA
 
 ## La Mente Como Moneda de Existencia
 

@@ -1,4 +1,4 @@
-# Capítulo 0: La Noche de la Luna Roja
+﻿# Capítulo 0: La Noche de la Luna Roja
 
 ---
 

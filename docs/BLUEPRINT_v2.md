@@ -1,4 +1,4 @@
-# MENTEMONEDA
+﻿# MENTEMONEDA
 ## La Mente Como Moneda de Existencia
 
 **Blueprint v2.0 — Marzo 2026**

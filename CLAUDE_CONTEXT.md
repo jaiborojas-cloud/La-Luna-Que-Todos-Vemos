@@ -1,4 +1,4 @@
-# CLAUDE CODE — Contexto de Sesión MENTEMONEDA
+﻿# CLAUDE CODE — Contexto de Sesión MENTEMONEDA
 
 > **Identificador:** MENTEMONEDA
 > **Propósito:** Este documento minimiza el consumo de tokens al retomar el proyecto en sesiones futuras.
