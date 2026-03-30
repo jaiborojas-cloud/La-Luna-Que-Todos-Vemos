@@ -9,10 +9,10 @@
 
 ## ESTADO ACTUAL DEL PROYECTO
 
-**Última actualización:** 2026-03-10
+**Última actualización:** 2026-03-29
 **Versión del Blueprint:** v2.0 (agentes cognoscentes)
-**Fase:** Construcción — Capítulo 0 completado (borrador), Capítulo 1 en desarrollo
-**Progreso total:** ~8% (Cap 0 borrador + Cap 1 parcial / 11 capítulos totales)
+**Fase:** Construcción — Cap 0 completado, Cap 1 expandido, Cap 3 integrado desde FRUTOS
+**Progreso total:** ~20% (Cap 0 + Cap 1 + Cap 3 / 11 capítulos totales)
 
 ---
 
@@ -46,7 +46,7 @@ PARTE I — El Pago
 └── Cap 2: Moneda biológica [PENDIENTE]
 
 PARTE II — La Diversidad
-├── Cap 3: No hay dos iguales [PENDIENTE]
+├── Cap 3: No hay dos iguales [BORRADOR COMPLETO ~2,800 palabras]
 └── Cap 4: Variaciones de adaptabilidad [PENDIENTE]
 
 PARTE III — La Convergencia
@@ -87,6 +87,29 @@ PARTE V — La Convocatoria
 
 ---
 
+## CAPÍTULO INTEGRADO: Cap 3 — No hay dos iguales
+
+**Objetivo:** Demostrar que cada configuración cerebral es única e irreproducible. La diversidad no es accidental sino fundamental.
+
+**Conceptos clave a cubrir:**
+- Fruto como metáfora de experiencia singular
+- Plasticidad cerebral como escultura irreversible
+- Imposibilidad ontológica de repetición (no técnica, fundamental)
+- Responsabilidad, valor, solidaridad paradójica, belleza de lo efímero
+- Trascendencia a través del amor y la creación
+
+**Tono:** Poético, filosófico, experiencial, con base científica (plasticidad neuronal).
+**Longitud objetivo:** 5,000-7,000 palabras (actualmente ~2,800)
+
+**Estado:**
+- [x] Borrador completo integrado desde hilo FRUTOS (~2,800 palabras)
+- [ ] Revisión del autor
+- [ ] Expansión opcional con neurociencia (estudios de gemelos, conectomas, neuroplasticidad)
+- [ ] Pulido narrativo
+- [ ] Integrado al manuscrito
+
+---
+
 ## CAPÍTULO EN DESARROLLO: Cap 1 — La ilusión del observador
 
 **Objetivo:** Demostrar que el cerebro construye activamente la realidad mediante predicción y corrección de error.
@@ -102,8 +125,9 @@ PARTE V — La Convocatoria
 
 **Estado:**
 - [x] Borrador inicial (~2,100 palabras)
-- [ ] Expandir a 6,000-8,000 palabras
-- [ ] Revisión científica
+- [x] Expandir a 6,000-8,000 palabras (~6,400 palabras completadas)
+- [ ] Revisión del autor
+- [ ] Revisión científica (verificar referencias técnicas)
 - [ ] Pulido narrativo
 - [ ] Integrado al manuscrito
 
@@ -116,9 +140,13 @@ PARTE V — La Convocatoria
 - [x] Blueprint v2.0 convertido a Markdown
 - [x] README actualizado con agentes cognoscentes
 - [x] **Capítulo 0 borrador completo** (~2,200 palabras)
+- [x] **Capítulo 1 expandido a longitud objetivo** (~6,400 palabras / meta: 6,000-8,000)
+- [x] **Capítulo 3 integrado desde hilo FRUTOS** (~2,800 palabras)
 - [ ] Revisión del autor para Capítulo 0
-- [ ] Capítulo 1 expandido a longitud objetivo (actualmente 2,100 / 6,000-8,000)
-- [ ] Glosario de términos clave v2 (agente cognoscente, moneda de existencia, pago cognitivo)
+- [ ] Revisión del autor para Capítulo 1 expandido
+- [ ] Revisión del autor para Capítulo 3
+- [ ] Capítulo 2: Moneda biológica (siguiente prioridad)
+- [ ] Glosario de términos clave v2 (agente cognoscente, moneda de existencia, pago cognitivo, energía libre variacional, inferencia activa, monopolio cognitivo, espacio cerebral, fruto único)
 - [ ] Preguntas de investigación por capítulo
 
 ### Fase siguiente
@@ -196,7 +224,41 @@ Al comenzar cada sesión, declarar: **"MENTEMONEDA — retoma el blueprint"**
   - Integra: epifanía, complejidad simultánea, luna roja como evidencia
   - Transición preparada hacia Capítulo 1
 
-**Próxima acción:** Esperar revisión del autor para Capítulo 0, luego expandir Capítulo 1
+### Sesión 3 — 2026-03-29
+- **Capítulo 1 expandido:** de ~2,100 a ~6,400 palabras (meta: 6,000-8,000)
+- **Nuevas secciones agregadas:**
+  - Experimentos en tiempo real: cronóstasis, efecto BANCO, parpadeos perceptuales
+  - Casos clínicos que demuestran fallos de predicción: agnosia visual (Oliver Sacks), miembro fantasma, alucinaciones en Parkinson
+  - Expansión técnica de Karl Friston: efecto McGurk, ceguera al cambio, supresión sacádica, termodinámica de sistemas vivos
+  - Economías cerebrales desarrolladas: mercados de atención, monopolios de creencia, burbujas cognitivas, reestructuración de deuda cognitiva
+  - Puente narrativo robusto hacia Capítulo 2 (moneda biológica)
+- **Conceptos técnicos integrados:**
+  - Energía libre variacional (formalización matemática completa)
+  - Inferencia activa (percepción + acción como proceso unificado)
+  - Monopolio cognitivo (sesgo de confirmación como economía)
+  - Burbuja cognitiva (colapsos psicóticos como crisis de mercado)
+- **Tono mantenido:** accesible pero riguroso, curioso sin ser dogmático
+- CLAUDE_CONTEXT.md actualizado con progreso
+
+**Próxima acción:** Esperar revisión del autor para Capítulo 1, desarrollar Capítulo 2 (Moneda biológica)
+
+### Sesión 3 (continuación) — 2026-03-29
+- **Capítulo 3 integrado:** "No hay dos iguales" (~2,800 palabras)
+- **Origen:** Conversación Claude.ai, hilo identificador FRUTOS
+- **Documento fuente:** `recursos/Los_Frutos_Unicos_del_Espacio_Cerebral.docx`
+- **Contenido integrado:**
+  - Metáfora de frutos únicos como experiencias singulares
+  - Plasticidad cerebral como escultura irreversible
+  - Imposibilidad ontológica de repetición (Heráclito amplificado)
+  - Cuatro implicaciones: responsabilidad, valor, solidaridad paradójica, belleza efímera
+  - Sección especial sobre trascendencia a través del amor y la creación
+  - Referencias personales: guitarra, Terraform, código como legado
+- **Tono:** Más poético y filosófico que Cap 1, mantiene rigor conceptual
+- **Formato:** Convertido a Markdown, estructura consistente con otros capítulos
+- **Ubicación:** Parte II — La Diversidad (según Blueprint v2.0)
+- CLAUDE_CONTEXT.md actualizado con progreso Cap 3
+
+**Próxima acción:** Esperar revisión del autor, desarrollar Capítulo 2 (Moneda biológica) como puente entre Cap 1 y Cap 3
 
 ---
 

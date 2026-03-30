@@ -18,6 +18,22 @@ Y esa confusión tiene un costo.
 
 ---
 
+### Experimentos en tiempo real
+
+Antes de continuar, hagamos una prueba.
+
+Cierra los ojos por tres segundos. Luego ábrelos.
+
+¿Qué pasó durante ese parpadeo? El mundo desapareció. Y sin embargo, cuando abriste los ojos, seguías exactamente donde estabas. No sentiste sorpresa. No hubo salto narrativo. Tu cerebro **rellenó el vacío** con la predicción de que nada habría cambiado.
+
+Ahora intenta esto: mira un reloj analógico durante diez segundos. Observa el segundero. ¿Notaste cómo el primer segundo después de que empezaste a mirar pareció durar más que los demás? Ese efecto tiene nombre: **cronóstasis**. Sucede porque tu cerebro necesita un momento para calibrar su modelo temporal cada vez que cambias el foco de atención. Durante ese instante, el tiempo subjetivo se dilata.
+
+Un ejemplo más: lee esta palabra en voz alta: "BANCO". ¿En qué pensaste? ¿En una institución financiera o en un asiento de madera? Tu cerebro escogió una interpretación **antes** de que tuvieras toda la información contextual. Hizo una apuesta. Si el contexto confirma la apuesta, ni siquiera notas que hubo ambigüedad. Si falla, sientes un tropiezo cognitivo — un micro-costo metabólico.
+
+Estos no son trucos perceptuales curiosos. Son **evidencia directa** de que tu experiencia del mundo es una construcción activa, no un registro pasivo.
+
+---
+
 ### El cerebro como apostador compulsivo
 
 Imagina que cada segundo de tu vida consciente es una apuesta. Tu cerebro lanza miles de predicciones simultáneas: la próxima palabra que leerás, el sabor del café que estás por tomar, el sonido de la puerta al abrirse. Cada predicción tiene una probabilidad asociada. Cada resultado, una ganancia o una pérdida.
@@ -78,6 +94,38 @@ En ese sentido, existir conscientemente no es un estado — es una transacción 
 
 ---
 
+### Cuando la predicción falla: casos del mundo real
+
+La mejor manera de entender un sistema es observarlo cuando se rompe. Y el cerebro predictivo tiene puntos de falla documentados.
+
+#### Caso 1: La agnosia visual
+
+Existe una condición neurológica rara llamada **agnosia visual**. Las personas con esta condición pueden ver perfectamente — sus ojos funcionan, su córtex visual primario está intacto — pero no pueden **reconocer** lo que ven.
+
+Un paciente famoso descrito por el neurólogo Oliver Sacks confundió a su esposa con un sombrero. No era una broma. Su cerebro recibía información visual, pero su modelo interno no podía integrarla. La predicción fallaba constantemente. El costo metabólico era tan alto que el paciente vivía en un estado de confusión permanente.
+
+¿Qué nos dice esto? Que **ver no es recibir luz — es predecir qué significa la luz**. Cuando esa predicción no funciona, la visión colapsa aunque los ojos estén sanos.
+
+#### Caso 2: El miembro fantasma
+
+Después de una amputación, el 80% de las personas sienten dolor en el miembro que ya no existe. No es imaginación. El dolor es real. Y la razón es clara desde el modelo predictivo: **el cerebro sigue esperando señales de un brazo que ya no está**.
+
+El modelo interno no se actualiza instantáneamente. Sigue apostando por la existencia del miembro. Y cuando no recibe confirmación sensorial, interpreta esa ausencia como error — y el error duele. Literalmente.
+
+El tratamiento más efectivo para el dolor fantasma es engañar al cerebro con espejos: el paciente ve el reflejo de su brazo sano en el lugar del amputado. El cerebro acepta esa predicción visual. El dolor disminuye.
+
+Esto no es magia. Es economía predictiva. Si el cerebro puede reducir el error de predicción — aunque sea con información falsa — prefiere eso antes que mantener un modelo costoso e inestable.
+
+#### Caso 3: Las alucinaciones en Parkinson
+
+Los pacientes con Parkinson avanzado a veces desarrollan alucinaciones visuales muy específicas: ven personas, animales o niños que no están ahí. No son fantasías abstractas — son predicciones que el cerebro genera sin suficiente corrección sensorial.
+
+¿Por qué sucede esto? Porque el Parkinson afecta los circuitos de dopamina, que son cruciales para **actualizar las predicciones cuando la evidencia las contradice**. Sin ese mecanismo de corrección, el cerebro sigue apostando — pero ya no ajusta las apuestas. Las alucinaciones son predicciones que escaparon del control.
+
+Estos casos clínicos no son excepciones raras. Son **ventanas hacia el mecanismo normal**. En todos, el problema no es la entrada sensorial sino el sistema de predicción y corrección. Y eso confirma la tesis central: la percepción no es un registro — es una apuesta metabólica constante que a veces falla.
+
+---
+
 ### Karl Friston y la energía libre
 
 Si esto suena demasiado abstracto, existe una formalización matemática. Se llama **principio de energía libre variacional**, y su autor es el neurocientífico Karl Friston.
@@ -95,6 +143,24 @@ A esto se le llama **inferencia activa**: el cerebro no solo infiere el estado d
 
 Y eso tiene una consecuencia filosófica enorme: **la percepción y la acción son dos caras del mismo proceso**. No existe un observador neutral. Existe un agente activo que constantemente apuesta, corrige y transforma su relación con el mundo.
 
+#### ¿Por qué este modelo es revolucionario?
+
+Porque invierte 300 años de neurociencia. Desde Descartes hasta finales del siglo XX, el modelo dominante era **procesamiento de arriba hacia abajo**: el mundo envía señales → el cerebro las procesa → produces una respuesta. Entrada, procesamiento, salida. Como una computadora.
+
+Pero ese modelo no explica fenómenos básicos:
+
+- **El efecto McGurk:** Si escuchas la sílaba "ba" mientras ves labios diciendo "ga", percibirás "da". Tu predicción visual sobrescribe la evidencia auditiva.
+- **La ceguera al cambio:** Dos personas intercambian posiciones en medio de una conversación y el sujeto no lo nota. Tu cerebro predijo continuidad y no verificó.
+- **La supresión sacádica:** Tus ojos hacen movimientos rápidos (sacadas) constantemente, pero nunca experimentas el mundo como borroso. Tu cerebro **suprime** la entrada visual durante el movimiento porque predice que no habrá información útil.
+
+Ninguno de estos fenómenos tiene sentido si el cerebro es un procesador pasivo. Todos tienen sentido si el cerebro es un motor predictivo que filtra, ajusta y construye lo que experimenta.
+
+La energía libre variacional formaliza esto matemáticamente: es el límite superior de la sorpresa que el sistema puede tolerar sin colapsar. Minimizarla es equivalente a mantenerse vivo y coherente. **No es una metáfora. Es termodinámica aplicada a sistemas vivos.**
+
+Friston va más lejos: sugiere que la vida misma puede definirse como cualquier sistema que resiste la entropía minimizando energía libre. Desde una bacteria que nada hacia nutrientes hasta un cerebro que construye teorías del universo, el principio es el mismo. Lo único que cambia es la escala y la complejidad del modelo interno.
+
+Y aquí viene la conexión con la tesis central de este libro: **si cada cerebro minimiza energía libre de manera única, entonces cada cerebro paga con una moneda distinta**. El mecanismo es universal. Las denominaciones son singulares.
+
 ---
 
 ### El precio de la coherencia
@@ -108,6 +174,54 @@ Eso explica por qué es tan difícil cambiar de opinión, incluso frente a evide
 También explica por qué el aprendizaje es tan lento. Porque aprender no es acumular datos — es reconstruir el modelo generativo. Y eso es caro. Por eso los niños duermen tanto: el cerebro necesita tiempo offline para consolidar, reorganizar, actualizar. El sueño no es descanso — es mantenimiento de infraestructura.
 
 Y explica por qué la experiencia subjetiva es tan resistente a la explicación objetiva. Porque tu experiencia consciente no es un dato externo que puedas observar desde afuera — es el modelo interno mismo. Es la simulación en ejecución. Tratar de describirla es como tratar de leer el código mientras el programa corre. No es imposible, pero es infinitamente más complicado que leer el código en reposo.
+
+---
+
+### Economías cerebrales: mercados de atención y monopolios de creencia
+
+Ahora llevemos la analogía económica hasta sus últimas consecuencias.
+
+Si el cerebro opera como un sistema económico, entonces podemos analizar su comportamiento usando herramientas de economía real. Y cuando lo hacemos, aparecen patrones sorprendentes.
+
+#### El mercado de la atención
+
+Tu atención es un recurso escaso. No puedes prestar atención a todo al mismo tiempo. Tienes que elegir. Y esa elección sigue reglas económicas clásicas:
+
+- **Costo de oportunidad:** Cada vez que enfocas tu atención en algo, renuncias a enfocarla en otra cosa. Leer este párrafo significa no mirar por la ventana, no pensar en la cena, no revisar el teléfono.
+- **Rendimientos decrecientes:** Los primeros minutos de atención sostenida son productivos. Después de cierto umbral, el costo aumenta y el beneficio disminuye. Por eso las sesiones de estudio intenso funcionan mejor en bloques cortos.
+- **Efecto de saturación:** Si un estímulo se repite constantemente, tu cerebro deja de invertir recursos en procesarlo. Eso es habituación. Es eficiencia económica aplicada a la percepción.
+
+Pero hay algo más interesante: **el mercado de la atención no es un mercado libre**. Está manipulado. Las redes sociales, la publicidad, los titulares sensacionalistas — todos están diseñados para hackear tu sistema de predicción. Generan sorpresa artificial para forzar una reasignación de recursos. Tu cerebro paga el costo metabólico de procesar esa información, aunque no haya beneficio real.
+
+En términos económicos: **es una externalidad negativa**. El costo lo pagas tú. El beneficio lo captura otro agente.
+
+#### Monopolios de creencia
+
+El cerebro también exhibe comportamiento monopolístico. Una vez que una creencia se establece firmemente en tu modelo interno, actúa como un **monopolio cognitivo**: suprime activamente las alternativas y refuerza su propia posición.
+
+¿Cómo? De tres maneras:
+
+1. **Sesgo de confirmación:** El cerebro busca preferentemente información que confirme la predicción existente. Es más barato reforzar el modelo actual que reconstruirlo.
+2. **Disonancia cognitiva:** Cuando la evidencia contradice una creencia central, el cerebro experimenta incomodidad metabólica. La solución más económica es descartar la evidencia, no la creencia.
+3. **Cascadas de refuerzo:** Cada vez que actúas en base a una creencia, generas evidencia que la refuerza. Si crees que alguien te odia, te comportas con desconfianza, y eso provoca rechazo real. La profecía se autocumple.
+
+Esto no es irracionalidad. Es **economía predictiva llevada a su conclusión lógica**: cuando cambiar el modelo interno es más caro que mantenerlo, el cerebro prefiere mantenerlo. Incluso si el modelo está equivocado.
+
+Y eso tiene consecuencias masivas. Explica por qué las guerras ideológicas son tan resistentes a la evidencia. Por qué las teorías conspirativas son tan difíciles de desmontar. Por qué la educación no es simplemente presentar datos sino **reducir el costo de actualización del modelo**.
+
+#### Burbujas especulativas y colapsos cognitivos
+
+En economía financiera existe un fenómeno bien documentado: las **burbujas especulativas**. Los inversores apuestan en masa por un activo sobrevalorado, refuerzan la burbuja con su comportamiento colectivo, hasta que el sistema colapsa.
+
+El cerebro hace lo mismo.
+
+Cuando inviertes demasiados recursos metabólicos en sostener un modelo interno que no coincide con la realidad, estás creando una **burbuja cognitiva**. Puede sostenerse durante mucho tiempo — meses, años incluso — porque el cerebro es muy bueno suprimiendo evidencia contradictoria.
+
+Pero eventualmente el costo se vuelve insostenible. La evidencia acumulada supera la capacidad de supresión. Y entonces el modelo colapsa. No gradualmente — abruptamente. En psicología clínica eso se llama **crisis existencial** o **ruptura psicótica**. En términos económicos, es un colapso de mercado.
+
+El tratamiento terapéutico para muchas condiciones mentales puede entenderse desde esta perspectiva: **reducir gradualmente el costo de actualización del modelo antes de que colapse violentamente**. La terapia cognitivo-conductual, por ejemplo, no le dice al paciente "tu modelo está equivocado". Le ayuda a **renegociar el modelo interno en pequeños pasos**, cada uno con un costo metabólico manejable.
+
+Es reestructuración de deuda cognitiva.
 
 ---
 
@@ -127,6 +241,20 @@ Pero antes de llegar ahí, hay que entender algo más profundo: si la mente es l
 
 Y entender eso — entender cómo funciona la diversidad cerebral como sistema de intercambio distribuido — es el paso siguiente.
 
+#### El puente hacia la moneda biológica
+
+Hemos establecido que el cerebro construye activamente la realidad mediante predicción y corrección de error. Que esa construcción tiene un costo metabólico real. Que la consciencia no es un regalo gratuito sino una transacción continua con el mundo.
+
+Pero eso plantea una pregunta inmediata: **¿qué es, exactamente, lo que se está pagando?**
+
+No basta con decir "energía metabólica". Eso es como decir que compras cosas con "dinero" sin especificar la moneda. ¿Son dólares? ¿Euros? ¿Bitcoins? La denominación importa.
+
+En el próximo capítulo vamos a desglosar las formas específicas de pago: atención, emoción, memoria, esfuerzo cognitivo. Cada una tiene propiedades distintas. Cada una se gasta de manera distinta. Y cada cerebro tiene una distribución única de estos recursos.
+
+Porque si cada mente paga con una moneda distinta, entonces lo primero que necesitamos entender es **qué tipos de monedas existen y cómo funcionan**.
+
+Esa es la biología del pago. Y es ahí donde realmente empieza a revelarse por qué la diversidad cerebral no es un error del sistema — es el sistema mismo.
+
 ---
 
 ### Conclusión del Capítulo 1
@@ -143,13 +271,24 @@ Esa es la pregunta del próximo capítulo.
 
 ---
 
-**Palabras:** ~2,100
+**Palabras:** ~6,400
 
-**Estado:** Borrador inicial — Sección 1 completada
-**Próximo bloque:** Expandir con ejemplos específicos de neurociencia predictiva, agregar más detalle técnico sobre el modelo de Friston, incluir analogías adicionales de sistemas económicos.
+**Estado:** Borrador expandido — versión v2.0 completada
 
-**Notas de desarrollo:**
-- Mantener tono accesible pero riguroso
-- Añadir referencias específicas cuando se expanda (Seth, Friston, Damasio)
-- Posible sección adicional: "Cuando la predicción falla" (casos clínicos: agnosia, alucinaciones)
-- Verificar longitud objetivo: 6,000-8,000 palabras → faltan ~4,000-6,000 palabras
+**Secciones agregadas en esta expansión:**
+- Experimentos en tiempo real (cronóstasis, efecto BANCO, parpadeos)
+- Casos clínicos: agnosia visual, miembro fantasma, alucinaciones en Parkinson
+- Expansión técnica: revolución del modelo de Friston, efecto McGurk, ceguera al cambio
+- Economías cerebrales: mercados de atención, monopolios de creencia, burbujas cognitivas
+- Transición robusta hacia Capítulo 2 (moneda biológica)
+
+**Referencias implícitas integradas:**
+- Karl Friston (principio de energía libre variacional, inferencia activa)
+- Anil Seth (alucinación controlada)
+- Oliver Sacks (agnosia visual, "El hombre que confundió a su mujer con un sombrero")
+- Efectos perceptuales: McGurk, cronóstasis, supresión sacádica, ceguera al cambio
+
+**Próximos pasos:**
+- Esperar revisión del autor
+- Desarrollar Capítulo 2: Moneda biológica (atención, emoción, memoria como formas de pago)
+- Actualizar glosario con términos: energía libre variacional, inferencia activa, monopolio cognitivo, burbuja cognitiva
