@@ -20,3 +20,15 @@ bóveda) y con la [[verdad-como-relacion-no-posesion]].
 
 Frase-ancla: «Una denominación aislada, sin sistema de referencia, no es dinero.
 Es simplemente papel.»
+
+**Puente con la obra (La Luna Que Todos Vemos)**
+Es el punto donde las dos obras se tocan: la obra desarrolla esta misma metáfora
+en dos direcciones que las notas no tienen y que se registran como unidades de
+`unidades-obra/`:
+- *Moneda adecuada vs. falsa* (`unidades-obra/`, faceta de esta unidad): una
+  moneda tiene valor cuando **honra su origen**; cuando lo olvida «se vuelve
+  inflación, papel sin valor» (capitulo_04). Añade el eje respaldo-por-el-origen,
+  ausente aquí. Ver también [[genealogia-que-libera]].
+- El anclaje neuro-metabólico de la moneda vive en
+  [[pago-metabolico-de-la-conciencia]] (el costo real de sostener la «moneda de
+  existencia»).

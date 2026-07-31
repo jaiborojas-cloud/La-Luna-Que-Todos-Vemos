@@ -35,3 +35,13 @@ central. Circula.»
   [...] sino en la red completa de interacciones»).
 
 **Veredicto de recurrencia**: núcleo duro — presente en las 3 notas.
+
+**Puente con la obra (La Luna Que Todos Vemos)**
+La obra desarrolla una faceta propia de esta idea, registrada como *realidad
+compartida emergente* — y es, además, la metáfora del **título**: de millones de
+percepciones singulares e irreductibles emerge una realidad común. «La realidad
+es lo que emerge cuando millones de mentes diferentes pagan el costo de
+percibirla» (epilogo luna roja); «Nadie ve el mismo sol. Todos ven el mismo sol»
+(BLUEPRINT_v2). Aquí el énfasis no es la *deslocalización* del conocimiento sino
+la *convergencia/emergencia* de lo compartido. Depende del mecanismo de
+[[percepcion-como-alucinacion-controlada]] y del [[pago-metabolico-de-la-conciencia]].
