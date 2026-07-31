@@ -119,9 +119,39 @@ cuándo considerarlo terminado.
 - **Criterio de hecho:** que siga marcado como abierto y no se contamine con los
   otros pisos.
 
+### Camino G — Situarse frente a la literatura ★ prioridad alta
+- **Qué:** posicionar el proyecto frente a los vecinos más cercanos y decir, para
+  cada uno, *en qué coincide y en qué se separa*. Mínimo obligado: **Simondon**
+  (la relación precede a los términos), **Karen Barad** (los relata no preexisten
+  a las relaciones), **Thomas Metzinger** (*Being No One*: no hay self completo,
+  solo un modelo fenoménico del self — el vecino más cercano), **Ladyman & Ross**
+  (realismo estructural óntico), **Luhmann** (punto ciego del sistema que se
+  auto-observa), **Whitehead**, **Hofstadter** (*strange loops*) y **Nāgārjuna**
+  (originación dependiente). Simmel ya está en el documento-puente.
+- **Por qué:** cada pilar del proyecto (relación primaria, límites del
+  autoconocimiento, cognición distribuida, cerebro predictivo, moneda relacional)
+  ya está muy poblado. La originalidad NO está en los ladrillos, solo en la
+  construcción. Sin este posicionamiento, el primer lector informado desarma el
+  proyecto como "otra versión de la ontología relacional". Con él, se vuelve *tu*
+  ontología relacional. Es además insumo directo del Camino E (qué añade tu
+  versión = §7.3).
+- **Dónde toca:** nuevo archivo `ontologia-relacional/02-estado-de-la-cuestion.md`;
+  retroalimenta documento-puente §5 y §7.3.
+- **Criterio de hecho:** para cada autor/tradición, una línea "coincide en X / me
+  separo en Y", y una frase final que nombre el diferencial propio.
+
 ### Orden sugerido
-**A → C → B → D → E**, con **F** como restricción permanente (no un paso). A y C
-pueden ir en paralelo. B se beneficia de tener A y C hechos.
+**A → C → G → B → D → E**, con **F** como restricción permanente (no un paso).
+A, C y G pueden ir en paralelo. B se beneficia de tener A, C y G hechos; E (el
+test de la metáfora) depende de G.
+
+> **Reencuadre de la ambición (2026-07-31):** el objetivo NO es "una filosofía
+> nueva" (los pilares ya existen), sino **(a)** una síntesis con voz propia,
+> **(b)** un argumento-puente concreto que se sostiene o no (Camino A), y **(c)**
+> una obra literaria singular (la original, `capitulos/`). Ese encuadre es
+> defendible; "nueva filosofía" expone el proyecto a ser desarmado. Ojo: la obra
+> *original* puede ser más original —como literatura filosófica— que la derivada;
+> no dejar que la derivada le robe la energía.
 
 ---
 
@@ -136,6 +166,12 @@ pueden ir en paralelo. B se beneficia de tener A y C hechos.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
 
+- **2026-07-31** — Añadido el **Camino G** (situarse frente a la literatura) y el
+  **reencuadre de la ambición** (síntesis + argumento-puente + obra literaria, no
+  "nueva filosofía"), tras una ronda de feedback crítico. El aporte candidato a
+  novedad es el §3 (unificar límite metabólico y límite lógico); su validez
+  depende del Camino A. Riesgo mayor identificado: la "ilusión de convergencia"
+  (infalsabilidad) — antídoto = §7.3 / Camino E.
 - **2026-07-31** — Creados el documento-puente y esta hoja de ruta. Extracción
   cerrada (3 notas → 16 unidades; obra original → 16 unidades + 2 facetas
   fundidas). Definido el puente (moneda) y el registro (filosófico riguroso).
