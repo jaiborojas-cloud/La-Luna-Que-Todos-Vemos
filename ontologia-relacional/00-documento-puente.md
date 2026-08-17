@@ -100,34 +100,78 @@ argumento, no un teorema transportado. Marcarlo así *es* el rigor.
 
 ---
 
-## 3. El nudo — micro y macro son el mismo límite (SÍNTESIS)
+## 3. El nudo — las dos obstrucciones se componen (SÍNTESIS: el aporte candidato)
 
-Aquí las dos obras se sueldan. El piso 1 y el piso 2 dicen lo mismo desde dos
-lenguajes:
+Aquí las dos obras se sueldan, y es el tramo con mayor pretensión de originalidad
+del documento. Los pisos §1 y §2 describen dos obstrucciones al mismo objeto —un
+modelo interno *completo* de S dentro de S— pero con recursos distintos:
 
-- **Termodinámica (obra):** el auto-modelado completo exigiría *energía
-  infinita* → imposible; el cerebro mantiene un modelo **aproximado** y paga por
-  él continuamente.
-- **Lógica/cibernética (notas):** el auto-modelado completo exigiría
-  *contenerse a sí mismo* → regreso infinito → imposible; el sistema mantiene una
-  representación **parcial**.
+- **L1, lógico-estructural (§2):** el modelo completo exige un *regreso infinito
+  de auto-inclusión* (el modelo debe modelarse a sí mismo, sin fin), más el límite
+  de variedad (una parte propia tiene menos variedad que el todo). Obstrucción
+  **topológica**: valdría incluso con energía infinita.
+- **L2, físico-termodinámico (§1):** el modelo completo exige recursos ilimitados,
+  pero el sistema tiene presupuesto de energía libre *finito*. Obstrucción **de
+  escasez**: valdría incluso sin paradoja de auto-referencia.
 
-La incompletud queda entonces **sobredeterminada**: aunque uno de los dos
-argumentos fallara, el otro la sostiene. Y de esa imposibilidad —no de una
-elección de diseño— se sigue la consecuencia central:
+**El movimiento clave — no son paralelas, se componen.** L1 fija la *estructura*
+de la imposibilidad (un regreso de pasos de auto-inclusión); L2 fija el *precio
+por paso* (cada paso es representación física y cuesta energía). Su producto:
 
-> Si ningún nodo puede contener el todo (ni pagarlo, ni cerrarlo lógicamente),
-> el conocimiento del sistema **no puede estar centralizado**. Tiene que estar
-> repartido entre nodos que sostienen, cada uno, un modelo parcial y costoso.
+> estructura del regreso (L1) × precio por paso (L2) = **impagable.**
+> Un sistema de energía finita no puede siquiera *empezar* a saldar el regreso que
+> L1 describe.
 
-Cada modelo parcial es único porque cada historia de minimización de energía
-libre esculpe un cerebro irrepetible (los *frutos únicos*). Ese modelo parcial y
-único es, exactamente, lo que la obra llama una **denominación** de la moneda: un
-valor local que solo cobra sentido dentro del sistema de cambio que lo reconoce.
+**Imagen rectora:** *un mapa que es parte del territorio no puede ser un mapa
+completo de ese territorio.* L1 es su versión informacional (la entrada «el mapa»
+exige otra entrada → regreso); L2 es su versión termodinámica (dibujar el mapa
+completo *sobre* el territorio consume más territorio del que hay). La bisagra que
+une ambas caras es una sola idea: **representar es un acto a la vez auto-incluyente
+y físico** — su auto-inclusión genera el regreso; su fisicalidad lo vuelve
+impagable.
 
-**Estatuto:** *síntesis argumentada.* La sobredeterminación de la incompletud es
-sólida. El paso "por tanto el conocimiento se distribuye" es válido para el
-sistema donde el límite se demuestre (ver la costura del §2).
+**Por qué "sobredeterminada" no es adorno.** La conclusión resiste el fallo de
+cualquier premisa contestable: si se refutara la universalidad del principio de
+energía libre (que es debatido), L1 sigue prohibiendo el modelo completo; si se
+rechazara aplicar Gödel/Ashby a cerebros de carne, L2 (energía finita) sigue
+prohibiéndolo. Una tesis sostenida por dos obstrucciones independientes es mucho
+más difícil de tumbar que una que descansa en una sola premisa fuerte.
+
+**La derivación (de la imposibilidad a lo relacional):**
+1. **Imposibilidad → parcialidad.** El modelo de cada nodo es forzosamente
+   parcial: una compresión perspectiva. No es defecto: es la única opción viable.
+2. **Parcialidad → complementariedad.** Historias distintas de minimización de
+   energía libre esculpen modelos distintos (los *frutos únicos*); cada nodo capta
+   lo que otros omiten.
+3. **Complementariedad → distribución.** Si el «todo» no está en ningún nodo pero
+   queda cubierto por el conjunto de modelos parciales *más sus interacciones*, el
+   conocimiento del sistema existe solo a través de la red. Eso es «distribuido».
+4. **Distribución → relacionalidad.** Lo que un nodo sabe queda fijado por su
+   posición en la trama y solo se completa con otros → la unidad del conocimiento
+   es la relación, no el nodo. Cada modelo parcial y único es lo que la obra llama
+   una **denominación** de la moneda.
+5. **Relacionalidad → moneda** *(capa analógica, ver §5).* El valor que no se
+   almacena entero y solo existe circulando *se comporta* como dinero. Ilumina, no
+   demuestra.
+
+**Las cuatro costuras del nudo (lo que falta saldar):**
+- **C1 — L1 → cerebro:** que un sistema de inferencia activa *instancie* la
+  condición del buen regulador (Conant-Ashby) es promesa, no teorema. Sin esto, la
+  composición L1×L2 no está garantizada para cerebros. → **Camino A.**
+- **C2 — cobertura:** el paso 3 asume que el conjunto de nodos *cubre* el todo; la
+  unión de puntos ciegos podría dejar un punto ciego global. Falta mostrar que
+  distribuir *mejora* la cobertura, no solo que es forzoso. → **Camino D.**
+- **C3 — salto intra→inter-sistema:** los pasos 4–5 saltan de la economía interna
+  de *un* cerebro a una red *social* de cerebros; son argumentos distintos y el
+  salto debe hacerse explícito, no por juego de palabras con «sistema». →
+  **Camino H.**
+- **C4 — no sobre-reclamar identidad:** «la misma pared» es la *composición*
+  (regreso × costo), no una identidad metafísica profunda entre lógica y
+  termodinámica.
+
+**Estatuto:** *síntesis argumentada, con núcleo robusto y perímetro por demostrar.*
+Robusto: la sobredeterminación y la composición L1×L2. Por demostrar: las costuras
+C1–C3.
 
 ---
 

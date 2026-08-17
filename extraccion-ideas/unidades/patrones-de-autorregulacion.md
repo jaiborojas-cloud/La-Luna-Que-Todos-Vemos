@@ -6,6 +6,8 @@ apariciones:
   - notas-crudas/nota-01-la-relacion-como-unidad-fundamental.md (2026-07-31)
   - notas-crudas/nota-02-relaciones-acumulacion-y-cibernetica.md (2026-07-31, parcial)
   - notas-crudas/nota-03-limites-del-autoconocimiento.md (2026-07-31, parcial)
+  - notas-crudas/nota-04-realidad-relacional-informacion-y-conciencia.md (2026-08-17)
+  - notas-crudas/nota-05-cristales-del-tiempo-computacion-cuantica-ontologia-relacional.md (2026-08-17, parcial)
 pensadores_relacionados: [Norbert Wiener, W. Ross Ashby, Humberto Maturana, Francisco Varela]
 resumen: >
   Cinco patrones recurrentes en sistemas que sostienen su identidad en el tiempo:
@@ -31,5 +33,18 @@ Frase-ancla: «Está cerrado en su operación. Está abierto en su interacción.
   de conexión permiten que un sistema exista y se autorregule?» — el concepto de
   patrones de autorregulación reaparece como pregunta, sin enumerar los cinco.
 
-**Veredicto de recurrencia**: recurrente (3 notas) pero siempre en versión
-completa solo en la nota 01; en 02 y 03 aparece como marco, no desarrollado.
+- *nota-04*: reaparece como el ciclo explícito «Relaciones → Información → Patrones
+  → Retroalimentación → Nuevas relaciones» y se eleva a arquitectura en la
+  [[meta-red-memoria-estadistica]] (retroalimentación de segundo orden). Es la misma
+  gramática de la identidad, ahora leída como motor evolutivo
+  ([[ley-de-relaciones-productivas]]).
+
+- *nota-05 (parcial)*: la idea de que «la estabilidad no reside en una sustancia
+  inmóvil sino en una repetición organizada» es la «identidad persistente» de esta
+  gramática vista en los [[cristales-del-tiempo]]. Aparece como principio, no como los
+  cinco patrones.
+
+**Veredicto de recurrencia**: recurrente (5 notas) pero siempre en versión
+completa (los cinco patrones) solo en la nota 01; en 02, 03, 04 y 05 aparece como
+marco —el ciclo de retroalimentación (04), la repetición organizada (05)—, no como la
+enumeración desarrollada.

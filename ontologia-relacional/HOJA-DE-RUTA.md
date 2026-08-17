@@ -5,7 +5,7 @@
 > (para no re-discutirlo) y cuáles son los caminos naturales a seguir, en orden.
 > El texto fundacional es `00-documento-puente.md`, en esta misma carpeta.
 
-Última actualización: 2026-07-31.
+Última actualización: 2026-08-17.
 
 ---
 
@@ -37,8 +37,9 @@ prosa desarrollada todavía.** El siguiente trabajo es §4 de este archivo.
    citas reales, y la regla de oro (abajo).
 4. **La obra derivada vive en carpeta propia** (`ontologia-relacional/`), separada
    del repo-herramienta de extracción.
-5. **La extracción está cerrada** para el material actual (3 notas + la obra).
-   Reabrir solo si aparece material nuevo.
+5. **La extracción se reabre solo con material nuevo.** Estado actual: **7 notas**
+   (las notas 04–07 la reabrieron el 2026-08-17) → **27 unidades** (18 en el núcleo).
+   Cerrada de nuevo hasta que llegue material fresco.
 
 ## 3. Reglas permanentes del proyecto
 
@@ -140,10 +141,25 @@ cuándo considerarlo terminado.
 - **Criterio de hecho:** para cada autor/tradición, una línea "coincide en X / me
   separo en Y", y una frase final que nombre el diferencial propio.
 
+### Camino H — Hacer explícito el salto intra→inter-sistema ★ prioridad alta
+- **Qué:** distinguir el argumento *intra-cerebro* (la economía interna de un
+  sistema cognitivo: por qué no puede auto-modelarse) del argumento *inter-cerebro*
+  (una red social de sistemas: por qué el conocimiento colectivo se distribuye), y
+  luego articular bajo qué condiciones el segundo *hereda* al primero — sin usar
+  "sistema" como comodín que los confunde.
+- **Por qué:** es la costura **C3** del §3 del documento-puente y el salto sobre el
+  que se apoyan los pasos 4–5 de la derivación (relacionalidad y moneda). Es la
+  contraparte social del Camino A (que es intra-sistema). Hoy no estaba ni siquiera
+  listado como paso: era el eslabón invisible.
+- **Dónde toca:** documento-puente §3 (C3) y §5; posible nuevo archivo o sección.
+- **Criterio de hecho:** un argumento que diga con precisión *qué* del límite
+  individual se transfiere a lo colectivo y *qué no*, y por qué.
+
 ### Orden sugerido
-**A → C → G → B → D → E**, con **F** como restricción permanente (no un paso).
-A, C y G pueden ir en paralelo. B se beneficia de tener A, C y G hechos; E (el
-test de la metáfora) depende de G.
+**A → C → G → H → B → D → E**, con **F** como restricción permanente (no un paso).
+A, C y G pueden ir en paralelo; **H** es la contraparte social de A (conviene
+hacerlas juntas). B, D y E se benefician de tener A, C, G y H hechos; E (el test
+de la metáfora) depende de G y de H.
 
 > **Reencuadre de la ambición (2026-07-31):** el objetivo NO es "una filosofía
 > nueva" (los pilares ya existen), sino **(a)** una síntesis con voz propia,
@@ -166,6 +182,45 @@ test de la metáfora) depende de G.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
 
+- **2026-08-17 (cierre del lote 04–07)** — Procesadas las **notas 05, 06 y 07**
+  además de la 04. Corpus: 3 → **7 notas**, 16 → **27 unidades**, núcleo 6 → **18**.
+  Añadida una **capa físico-informacional** entera: cristales del tiempo + Whitehead
+  ([`ontologia-de-procesos`], [`cristales-del-tiempo`]), Wolfram/hipergrafos
+  ([`universo-computacional-wolfram`]), entropía y su reverso
+  ([`entropia-como-variable-relacional`], [`neguentropia-exploracion-y-compresion`]) y
+  su bajada aplicada ([`economia-biomimetica-y-limites-a-la-concentracion`]). **Dos
+  hallazgos:** (1) la nota 06 da carne a la **costura termodinámica L2** (`entropía` =
+  costo físico del auto-modelado → material directo del **Camino A**) y es el puente
+  abstracto con `pago-metabolico-de-la-conciencia` de la obra. (2) La nota 07 **cruzó
+  el eje físico-informacional nuevo con el económico-sistémico de la nota 02**
+  (eguentropía ↔ cáncer/monopolios), ascendiendo 4 unidades al núcleo. **Riesgos
+  vivos:** toda la capa nueva es la más especulativa del corpus (modelo E=ln|R| sin
+  definir; «principio de conservación relacional» que no conserva; analogía
+  vida/agujeros negros; falacia is→ought en la economía biomimética; «ilusión de
+  convergencia» Rovelli/Whitehead/Wolfram). Cada unidad quedó con su nota de cautela.
+  **No integrar al documento-puente sin pasar por A/D/E/H.** Próximo paso natural:
+  Camino A (ahora con insumo termodinámico real) o Camino E (test de honestidad, que
+  la capa nueva vuelve urgente).
+- **2026-08-17** — **Reabierta la extracción** (revierte la decisión §2.5) con la
+  **nota 04** («Realidad Relacional, Información y Conciencia»). Añadidas **5 unidades
+  nuevas** (`interpretaciones-relacionales-de-lo-cuantico` [QBism/RQM],
+  `ontologia-informacional`, `ley-de-relaciones-productivas`,
+  `meta-red-memoria-estadistica`, `capas-de-emergencia-relacional`) y promovidas al
+  núcleo `conciencia-como-forma-de-relacion` y `circulacion-consciente-pregunta-abierta`
+  (ahora 2 apariciones). Total: 16 → **21 unidades**; núcleo 6 → **8**. La nota 04
+  aporta **anclaje físico** que faltaba (Rovelli/QBism → alimenta Caminos C y G) y una
+  **definición operacional de conciencia** («red que modela sus propias relaciones»).
+  **Advertencia:** su capa físico-informacional es la más especulativa —ley evolutiva
+  cosmológica y «memoria estadística del universo» rozan la infalsabilidad—; cada
+  unidad quedó con nota de cautela epistémica y son material directo del **Camino E**
+  (test de honestidad) y del **Camino H** (salto intra→inter-sistema). *No* integrar
+  esto al documento-puente sin pasar antes por A/E/H.
+- **2026-07-31** — Desarrollado a fondo el **§3** del documento-puente: las dos
+  obstrucciones (L1 lógico-estructural, L2 termodinámica) **se componen** (regreso
+  × costo = impagable), imagen mapa/territorio, y las **cuatro costuras C1–C4**.
+  Añadido el **Camino H** (salto explícito intra→inter-sistema = costura C3), antes
+  invisible. El núcleo robusto del aporte = sobredeterminación + composición L1×L2;
+  el perímetro por demostrar = C1 (Camino A), C2 (Camino D), C3 (Camino H).
 - **2026-07-31** — Añadido el **Camino G** (situarse frente a la literatura) y el
   **reencuadre de la ambición** (síntesis + argumento-puente + obra literaria, no
   "nueva filosofía"), tras una ronda de feedback crítico. El aporte candidato a

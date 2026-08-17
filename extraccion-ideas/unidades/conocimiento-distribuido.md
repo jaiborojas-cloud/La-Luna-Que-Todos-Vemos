@@ -6,6 +6,7 @@ apariciones:
   - notas-crudas/nota-01-la-relacion-como-unidad-fundamental.md (2026-07-31)
   - notas-crudas/nota-02-relaciones-acumulacion-y-cibernetica.md (2026-07-31)
   - notas-crudas/nota-03-limites-del-autoconocimiento.md (2026-07-31)
+  - notas-crudas/nota-04-realidad-relacional-informacion-y-conciencia.md (2026-08-17)
 pensadores_relacionados: [Friedrich Hayek, Edwin Hutchins, Pierre-Paul Grassé (stigmergia)]
 resumen: >
   El conocimiento total puede existir sin estar contenido en ninguna de sus
@@ -34,7 +35,13 @@ central. Circula.»
   «Síntesis Final» («El conocimiento total quizá no reside en ningún individuo
   [...] sino en la red completa de interacciones»).
 
-**Veredicto de recurrencia**: núcleo duro — presente en las 3 notas.
+- *nota-04*: reaparece como la «memoria estadística» de la
+  [[meta-red-memoria-estadistica]] — un saber sobre qué relaciones son productivas
+  que no reside en ningún nodo sino en la red que analiza sus propios patrones. La
+  definición de conciencia de la nota («una red que construye modelos internos sobre
+  sus propias relaciones») presupone este saber distribuido como sustrato.
+
+**Veredicto de recurrencia**: núcleo duro — presente en las 4 notas.
 
 **Puente con la obra (La Luna Que Todos Vemos)**
 La obra desarrolla una faceta propia de esta idea, registrada como *realidad

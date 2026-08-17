@@ -4,6 +4,7 @@ estado: en desarrollo
 primera_aparicion: notas-crudas/nota-01-la-relacion-como-unidad-fundamental.md (2026-07-31)
 apariciones:
   - notas-crudas/nota-01-la-relacion-como-unidad-fundamental.md (2026-07-31)
+  - notas-crudas/nota-04-realidad-relacional-informacion-y-conciencia.md (2026-08-17)
 pensadores_relacionados: [Heinz von Foerster (cibernética de segundo orden), Douglas Hofstadter]
 resumen: >
   La circulación (hormigas, mercados, sinapsis) existe sin conciencia. La pregunta
@@ -21,3 +22,16 @@ Marcada explícitamente como pregunta abierta. Es la bisagra entre el
 denominaciones de la misma circulación.
 
 Frase-ancla: «¿Puede la circulación volverse consciente de sí misma?»
+
+**Reapariciones**
+- *nota-04*: reaparece en la reflexión final, ahora en clave cosmológica: «cada
+  observador podría ser una forma mediante la cual la realidad explora, comprende y
+  expande sus propias posibilidades». Es una cuarta variante de la vía (1)
+  —emergencia de segundo orden— proyectada al universo entero vía la
+  [[meta-red-memoria-estadistica]]. *Se mantiene marcada como pregunta abierta*: la
+  nota la formula como «podría», no la resuelve; conviene que siga en el registro
+  interrogativo (restricción del Camino F) y no se contamine con la definición
+  funcional de [[conciencia-como-forma-de-relacion]], que es otro piso.
+
+**Veredicto de recurrencia**: pasa de ocurrencia (nota 01) a **recurrente** (notas
+01 y 04), siempre en registro de pregunta abierta.
