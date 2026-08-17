@@ -182,6 +182,42 @@ de la metáfora) depende de G y de H.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
 
+- **2026-08-17 (sesión de Caminos E → A → C)** — Tras el lote 04–07 se hicieron tres
+  cosas, todas en archivos nuevos de `ontologia-relacional/` (el documento-puente NO
+  se tocó; pendiente de integrar tras revisión del usuario):
+  - **Camino E hecho** (`E-prueba-de-la-metafora-y-del-marco.md`). Veredicto en dos
+    niveles: (1) la **metáfora de la moneda** se degrada de columna a herramienta de
+    dos usos —sí para *patologías de circulación*, no para *singularidad* (la
+    fungibilidad del dinero contradice los frutos únicos)—; (2) hallazgo fuerte: **la
+    ontología relacional es MARCO, no tesis predictiva** — el §3 (lo que tiene dientes)
+    NO usa la relacionalidad; la relacionalidad *interpreta* río abajo. Lo único que el
+    marco prohíbe —«no hay conocimiento sin perspectiva»— es el mismo diente de §3.
+    Diagnóstico: el lote 04–07 era casi todo *marco* (dilución), salvo la
+    entropía-costo (rescate para §3/A) y el gancho «orden ≠ justicia».
+  - **Camino A redactado y reequilibrado** (`A-bisagra-inferencia-activa-buen-regulador.md`).
+    Primero se montó sobre buen regulador (Conant-Ashby) + FEP; la verificación
+    (abajo) los debilitó, así que se **reescribió apoyándolo en variedad + finitud
+    (L1a + L2)**, que NO necesitan ni el teorema ni el FEP. Núcleo: *deber-regular ×
+    no-poder-completar (parte finita < todo auto-inclusivo) = parcialidad forzada =
+    perspectiva*. **Refinamiento nuevo del nudo:** L2 no es obstrucción aparte de L1 —
+    su finitud *habilita* el argumento de conteo (energía finita ⇒ estados finitos);
+    endurece la composición del §3. El diamante «perspectivismo por imposibilidad» se
+    conserva sobre pierna firme.
+  - **Camino C (quirúrgico) hecho** para A. Verificado contra fuentes: (a) el teorema
+    del buen regulador es **más débil que su eslogan** (solo *algunos* óptimos son
+    modelos; homomorfismo *con pérdida*; sobre el sistema *externo*, no el yo) → se
+    jubiló como pilar; (b) **P2 (FEP↔buen regulador) lo sostiene Friston pero está
+    contestado**, y el «modelo» puede ser *atribuido por un observador* (Virgo, Biehl,
+    Baltieri & Capucci 2025) — amenaza que resultó **aliada** del perspectivismo; (c)
+    FEP «influyente pero debatido», confirmado. Fuentes en el §7 del archivo A.
+  - **Pendiente inmediato (próxima sesión):** integrar A y E al documento-puente
+    (reescribir §2, §3, §5, §6, §7.1 según el §5 del archivo A y el cierre de E). NO
+    hecho aún — requiere revisión del usuario.
+  - **Reencuadre reforzado:** hay dos proyectos y no hay que confundirlos — (A) la
+    contribución rigurosa = **§3, la composición L1×L2** (object-compatible, casi
+    novedosa: es *el* activo); (B) la síntesis generativa / obra. La ontología
+    relacional y la moneda son **marco y voz de B**, no argumento de A. Antídoto fijado:
+    ante cada idea nueva preguntar *«¿marco o argumento? ¿qué prohíbe?»*.
 - **2026-08-17 (cierre del lote 04–07)** — Procesadas las **notas 05, 06 y 07**
   además de la 04. Corpus: 3 → **7 notas**, 16 → **27 unidades**, núcleo 6 → **18**.
   Añadida una **capa físico-informacional** entera: cristales del tiempo + Whitehead
